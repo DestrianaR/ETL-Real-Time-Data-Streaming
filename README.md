@@ -1,6 +1,6 @@
 # ETL Real-Time Data Streaming Pipeline
 
-![Data Architecture](/Image/Data_Architecture.jpg)
+![Data Architecture](/image/Data_Architecture.jpg)
 
 ## Project Overview
 A real-time data streaming pipeline that processes transaction data using Kafka, Spark (both PySpark and Scala), MongoDB, and visualizes insights using Metabase. This project demonstrates the integration of data engineering tools for end-to-end streaming, storage, and analytics.
