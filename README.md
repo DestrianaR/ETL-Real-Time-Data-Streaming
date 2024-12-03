@@ -9,7 +9,7 @@ A real-time data streaming pipeline that processes transaction data using Kafka,
 1. [Project Features](#ProjectFeatures)
 2. [Tecnologies Used](#TecnologiesUsed)
 3. [Setup and Installation](#SetupandInstallation)
-4. [Pipeine Workflow](#PipeineWorkflow)
+4. [Pipeline Workflow](#PipeineWorkflow)
 5. [How To Run](#HowToRun)
 6. [Key Result and Visualizations](#KeyResultandVisualizations)
 
