@@ -55,7 +55,7 @@ Make sure all containers are running well
     ![Control Center Second Page](/image/Control_Center_Second_Page.png)
     For the Topic name, you can enter the name of your topic. Make sure it matches the topic name used in `producer.py`. In this example, I’m naming it financialtransactions. For Number of Partitions, I’m using 2 partitions to match the number of my Spark workers. You can adjust the number of partitions based on your data volume and requirements. And then select `Create with defaults`.
     ![Control Center Third Page](/image/Control_Center_Third_Page.png)
-    Select `Message` menu, and kafka ready to consume message.
+    Select `Message` menu, and kafka ready to receive message from data source.
 
 - Spark
     1. Initial view of Spark
