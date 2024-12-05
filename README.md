@@ -65,6 +65,7 @@ Make sure all containers are running well
 
 - MongoDB
     1. Initial view of MongoDB shell in container
+    Enter the MongoDB container to open the mongodb shell.
     ![MongoDB First View](/image/MongoDB_First_View.png)
     In the `init-db` folder, I have created a `mongo_init.js` file to initialize the `admin` database and create a `root` user with global access. Switch db to `transactiondb` and MongoDB ready to receive data from spark.
 
