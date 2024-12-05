@@ -7,7 +7,7 @@ def main():
     # Initialize Spark session
     spark = SparkSession.builder \
         .appName("KafkaSparkStreaming") \
-        .config("spark.mongodb.output.uri", "mongodb://root:example@mongodb:27017/db.transaction?authSource=db") \
+        .config("spark.mongodb.output.uri", "mongodb://root:example@mongodb:27017/transactiondb.transaction?authSource=admin") \
         .getOrCreate()
 
     # Read from Kafka
@@ -56,9 +56,7 @@ def main():
             .format("mongodb") \
             .outputMode("append") \
             .option("checkpointLocation", "/tmp/pyspark-checkpoints") \
-            .option("spark.mongodb.connection.uri", "mongodb://root:example@mongodb:27017/") \
-            .option("database", "db") \
-            .option("collection", "transaction") \
+            .option("spark.mongodb.connection.uri", "mongodb://root:example@mongodb:27017/transactiondb.transaction?authSource=admin") \
             .start()
 
     query.awaitTermination()

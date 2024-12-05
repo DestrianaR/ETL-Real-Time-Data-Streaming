@@ -1,0 +1,32 @@
+2024.12.05 12:06:21 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.05 12:06:24 INFO  Running List(C:\Users\destr\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase)
+2024.12.05 12:06:24 INFO  Attempting to connect to the build server...
+2024.12.05 12:06:24 INFO  Running BSP server List(C:\Users\destr\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.scala-build\ide-envs.json, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase)
+2024.12.05 12:06:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.metals\bsp.trace.json or C:\Users\destr\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.05 12:06:26 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.12.05 12:06:26 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.12.05 12:06:26 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.12.05 12:06:30 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.12.05 12:06:33 INFO  BSP server: Starting compilation server
+2024.12.05 12:06:42 INFO  time: Connected to build server in 17s
+2024.12.05 12:06:42 INFO  Connected to Build server: scala-cli v1.4.0
+2024.12.05 12:06:42 INFO  time: Imported build in 0.43s
+2024.12.05 12:06:42 INFO  running doctor check
+2024.12.05 12:06:42 INFO  java targets: Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617-test, Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617
+2024.12.05 12:06:42 INFO  compiling real-time-data-streaming-kafka-spark-mongodb-metabase_070607f617 (1 scala source)
+2024.12.05 12:06:46 INFO  time: compiled Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617 in 3.31s
+2024.12.05 12:06:46 INFO  compiling real-time-data-streaming-kafka-spark-mongodb-metabase_070607f617 (1 scala source)
+2024.12.05 12:06:46 INFO  time: compiled Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617 in 0.73s
+2024.12.05 12:06:48 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.05 12:06:53 INFO  time: indexed workspace in 10s
+2024.12.05 12:06:53 INFO  Cancelling compilation on scala-cli server
+2024.12.05 12:06:53 INFO  compiling real-time-data-streaming-kafka-spark-mongodb-metabase_070607f617 (1 scala source)
+2024.12.05 12:06:53 INFO  time: compiled Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617 in 0.55s
+2024.12.05 12:06:54 INFO  time: Imported build in 0.61s
+2024.12.05 12:06:54 INFO  running doctor check
+2024.12.05 12:06:54 INFO  java targets: Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617-test, Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617
+2024.12.05 12:06:54 INFO  compiling real-time-data-streaming-kafka-spark-mongodb-metabase_070607f617 (1 scala source)
+2024.12.05 12:06:54 INFO  time: compiled Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617 in 0.52s
+2024.12.05 12:06:55 INFO  time: indexed workspace in 1.07s
+2024.12.05 12:06:55 INFO  compiling real-time-data-streaming-kafka-spark-mongodb-metabase_070607f617 (1 scala source)
+2024.12.05 12:06:55 INFO  time: compiled Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617 in 0.37s
