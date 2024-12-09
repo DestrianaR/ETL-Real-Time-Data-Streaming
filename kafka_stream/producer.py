@@ -40,11 +40,11 @@ def main():
         'bootstrap.servers': 'localhost:29092,localhost:29093'
     })
 
-    end_time = datetime.now()
-    start_time = end_time - timedelta(days=7)
+    start_time = datetime(2024, 1, 1)
+    end_time = datetime(2024, 12, 31)
     
     curr_time = datetime.now()
-    run_duration = timedelta(seconds=3600)  
+    run_duration = timedelta(seconds=7200)  # running for 2 hours
     stop_time = curr_time + run_duration
 
     while datetime.now() < stop_time:

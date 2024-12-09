@@ -30,3 +30,46 @@
 2024.12.05 12:06:55 INFO  time: indexed workspace in 1.07s
 2024.12.05 12:06:55 INFO  compiling real-time-data-streaming-kafka-spark-mongodb-metabase_070607f617 (1 scala source)
 2024.12.05 12:06:55 INFO  time: compiled Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617 in 0.37s
+2024.12.05 12:16:04 INFO  Shutting down server
+2024.12.05 12:16:04 INFO  shutting down Metals
+2024.12.05 12:16:04 INFO  Shut down connection with build server.
+2024.12.05 12:16:04 INFO  Exiting server
+2024.12.05 15:44:53 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase' for client Visual Studio Code 1.91.0.
+2024.12.05 15:44:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.05 15:44:54 INFO  Attempting to connect to the build server...
+2024.12.05 15:44:54 INFO  Running BSP server List(C:\Users\destr\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.scala-build\ide-envs.json, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase)
+2024.12.05 15:44:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.metals\bsp.trace.json or C:\Users\destr\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.05 15:44:59 INFO  time: Connected to build server in 5.39s
+2024.12.05 15:44:59 INFO  Connected to Build server: scala-cli v1.4.0
+2024.12.05 15:45:00 INFO  running doctor check
+2024.12.05 15:45:00 INFO  java targets: Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617-test, Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617
+2024.12.05 15:45:00 INFO  compiling real-time-data-streaming-kafka-spark-mongodb-metabase_070607f617 (1 scala source)
+2024.12.05 15:45:00 INFO  time: compiled Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617 in 0.71s
+2024.12.05 15:45:00 INFO  compiling real-time-data-streaming-kafka-spark-mongodb-metabase_070607f617 (1 scala source)
+2024.12.05 15:45:01 INFO  time: compiled Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617 in 0.48s
+2024.12.05 15:45:02 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.05 15:45:02 INFO  time: indexed workspace in 3s
+2024.12.05 15:45:20 INFO  Shutting down server
+2024.12.05 15:45:20 INFO  shutting down Metals
+2024.12.05 15:45:20 INFO  Shut down connection with build server.
+2024.12.05 15:45:20 INFO  Exiting server
+2024.12.05 16:33:02 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase' for client Visual Studio Code 1.91.0.
+2024.12.05 16:33:03 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.05 16:33:03 INFO  Attempting to connect to the build server...
+2024.12.05 16:33:03 INFO  Running BSP server List(C:\Users\destr\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.scala-build\ide-envs.json, C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase)
+2024.12.05 16:33:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\destr\Project_Data_Engineer\Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase\.metals\bsp.trace.json or C:\Users\destr\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.05 16:33:09 INFO  time: Connected to build server in 6.09s
+2024.12.05 16:33:09 INFO  Connected to Build server: scala-cli v1.4.0
+2024.12.05 16:33:10 INFO  time: Imported build in 0.27s
+2024.12.05 16:33:10 INFO  running doctor check
+2024.12.05 16:33:10 INFO  java targets: Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617-test, Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617
+2024.12.05 16:33:10 INFO  compiling real-time-data-streaming-kafka-spark-mongodb-metabase_070607f617 (1 scala source)
+2024.12.05 16:33:10 INFO  time: compiled Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617 in 0.52s
+2024.12.05 16:33:10 INFO  compiling real-time-data-streaming-kafka-spark-mongodb-metabase_070607f617 (1 scala source)
+2024.12.05 16:33:10 INFO  time: compiled Real-Time-Data-Streaming-Kafka-Spark-MongoDB-Metabase_070607f617 in 0.4s
+2024.12.05 16:33:13 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.05 16:33:13 INFO  time: indexed workspace in 3.13s
+2024.12.06 00:04:42 INFO  Shutting down server
+2024.12.06 00:04:42 INFO  shutting down Metals
+2024.12.06 00:04:42 INFO  Shut down connection with build server.
+2024.12.06 00:04:42 INFO  Exiting server

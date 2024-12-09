@@ -9,7 +9,7 @@ In this project I created a real-time data stream that handles transactional dat
 1. [Project Features](#ProjectFeatures)
 2. [Tecnologies Used](#TecnologiesUsed)
 3. [How To Run](#HowToRun)
-4. [Key Result and Visualizations](#KeyResultandVisualizations)
+4. [Visualizations](#Visualizations)
 
 ## Project Features
 - Real-Time Data Generation: Simulated transaction data using Python's Faker library.
@@ -110,5 +110,8 @@ Make sure all containers are running well
     ![Metabase Data From Mongodb](/image/Metabase_Data_From_Mongodb.png)
     After the data pipeline runs well, now we can create a visualization.
 
+## Visualization
+Here are the results from the visualization dashboard
+![Visualization Metabase](/image/Dashboard_Metabase.jpg)
 
 
